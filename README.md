@@ -11,6 +11,7 @@ A premium, high-performance application designed for fast Goods and Services Tax
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-00D4AA?style=for-the-badge)
 
 ---
@@ -210,14 +211,16 @@ If you find this project useful, please consider giving it a star ⭐ on GitHub.
 
 ---
 
-## License
+<div align="center">
+  Copyright © 2026 GST Calculator Pro All Rights Reserved.
+  
+  <br />
+  <br />
 
-This project is released for educational and portfolio purposes.
-
----
-
-Copyright © 2026 GST Calculator Pro
-
-Developed and maintained by Subramanya Veeregowda
-
-All Rights Reserved.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](GITHUB_URL)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](LEETCODE_URL)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](HACKERRANK_URL)
+  [![NeetCode](https://img.shields.io/badge/NeetCode-000000?style=for-the-badge)](NEETCODE_URL)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](WHATSAPP_URL)
+</div>
