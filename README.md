@@ -189,35 +189,15 @@ npm run build
 
 ---
 
-## Author
-
-Subramanya Veeregowda
-
-Electrical & Electronics Engineer
-
-Full Stack Developer
-
-LinkedIn:
-[https://www.linkedin.com/in/subramanyav2002](https://www.linkedin.com/in/subramanyav2002)
-
-Portfolio:
-(Add Portfolio link)
-
----
-
-## Support
-
-If you find this project useful, please consider giving it a star ⭐ on GitHub.
-
----
-
 <div align="center">
-  Copyright © 2026 GST Calculator Pro All Rights Reserved.
+----------------------------------------------------------------<br />
+Copyright © 2026 GST Calculator Pro | All Rights Reserved<br />
+----------------------------------------------------------------
   
-  <br />
   <br />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](GITHUB_URL)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](LEETCODE_URL)
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](HACKERRANK_URL)
